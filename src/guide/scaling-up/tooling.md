@@ -53,7 +53,7 @@
 
 ## IDE 支持 {#ide-support}
 
-- 推荐使用的 IDE 是 [VSCode](https://code.visualstudio.com/)+ 配备 [Volar](https://github.com/johnsoncodehk/volar) 插件。Volar 提供了语法高亮、TypeScript 支持，和模板内表达式与组件 props 的智能提示。
+- 推荐使用的 IDE 是 [VSCode](https://code.visualstudio.com/) 配备 [Volar](https://github.com/johnsoncodehk/volar) 插件。Volar 提供了语法高亮、TypeScript 支持，和模板内表达式与组件 props 的智能提示。
 
   :::tip
   Volar 替代了 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)，那是我们之前为 Vue 2 提供的官方 VSCode 扩展。如果你之前已经安装了 Vetur，请确保在 Vue 3 的项目中禁用它。
